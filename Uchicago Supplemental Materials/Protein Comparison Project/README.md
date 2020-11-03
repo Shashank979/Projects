@@ -1,0 +1,3 @@
+Program allows user to either graph the percent of atoms, percent of each residue or percent of each type of residue based on chemical properties (e.g. hydrophobic) of several different proteins. The number of proteins that can be graphed is based on the type of graphing done whether it be atoms or residues. Proteins are fetched from the proteind data bank using the python library prody. The proteins are fetched by their four letter codes. Graphs are done using matplotlib, examples of the graphs produced are shown in examples folder in this github directory. 
+
+By Shashank Hirani
